@@ -14,10 +14,12 @@
 <li>Anteportada..............................................2</li>
 <li>Indice...........................................................3
 <li>Objetivos....................................................4</li>
-<li>Ejemplo de Media..................................5</li>
-<li>wireframe 01_splash..............................6</li>
-<li>wireframe 02_login................................7</li>
-<li>Objetivos Futuros...................................8</li>
+<li>Trabajos o Documentación............5-8</li>
+
+<ol>Ejemplo de Media................................6</ol>
+<ol>wireframe 01_splash............................7</ol>
+<ol>wireframe 02_login..............................8</ol>
+<li>Objetivos Futuros...................................9</li>
 
 # Objetivos
 <li>Aprender y comprender lo que es el codigo de una ppagina web para realizalo yo de una buena manera</li>
@@ -29,3 +31,9 @@
 <li> Media  ejemplo https://designedlink.github.io/Media/</li> 
 <li> Wireframe No1 https://designedlink.github.io/Wifrime-1/</li>
 <li> Wireframe No2  https://designedlink.github.io/wireframe_2_login/</li>
+
+# Objetivos a futuro 
+
+<li>Me gustaría ordenar organizar el código de mis paginas web de una manera mas profesional y entendible para la mayoría de personas</li>
+<li>Quisiera poder investigar distintos tipos de diseños y formas de realizar una pagina web de manera mas eficiente y rápida</li>
+<li>Mi propósito con este trabajo es presentar lo que aprendí durante este año de clases en los periodos de diseño computarizado con el profesor Josué Fuentes</li>
