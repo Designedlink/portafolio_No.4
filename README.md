@@ -27,5 +27,5 @@
 # Trabajos o Documentación 
 
 <li> Media  ejemplo https://designedlink.github.io/Media/</li> 
-<li> Wireframe No1</li>
+<li> Wireframe No1 https://designedlink.github.io/Wifrime-1/</li>
 <li> Wireframe No2  https://designedlink.github.io/wireframe_2_login/</li>
